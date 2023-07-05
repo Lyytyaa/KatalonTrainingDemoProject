@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>9b593b15-54c9-4752-8932-0a11b04c0e31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/aside/div/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cb6e8d6-b4af-4c7b-be22-0b36e49be4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wyhvVD _1EApiB oAryD+ cepDQ1 _7w24N1</value>
+      <webElementGuid>7223b47a-ae8e-4bab-8428-55cc286d0abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>1dd551ed-d103-458d-a161-7689ffc858fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/aside[@class=&quot;ReDGyJ&quot;]/div[@class=&quot;_68lNMv undefined&quot;]/div[@class=&quot;aZ-vOM yaHC-m&quot;]/div[@class=&quot;Kp5gjr d5Lt9S&quot;]/button[@class=&quot;wyhvVD _1EApiB oAryD+ cepDQ1 _7w24N1&quot;]</value>
+      <webElementGuid>e326f368-d0f7-499c-b907-1c6f672e6656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/aside/div/div/div[2]/button[2]</value>
+      <webElementGuid>34e5c99f-b26d-4c8a-b8e3-1cdab8b70f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim lewat SMS'])[1]/following::button[1]</value>
+      <webElementGuid>f0a1d094-2bc3-4cdd-a263-ca5258619293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu akan menerima link verifikasi WhatsApp yang dikirim ke nomor telepon terdaftar.'])[1]/following::button[2]</value>
+      <webElementGuid>3ceedde7-8dd1-434d-8efc-4a9625e6dd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mmmmmmmmmmlli'])[1]/preceding::button[1]</value>
+      <webElementGuid>c9a20f5e-308c-43e5-80c6-e63c8ebe78f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>83e3c47b-603b-4b11-ae7f-95a5f65356b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1d6b677a-f39d-4f40-8dea-e4de04da05cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>004d5025-f783-4f6d-8f35-edf3f41c086b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
